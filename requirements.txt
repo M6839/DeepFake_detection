@@ -1,0 +1,12 @@
+numpy==1.24.3
+pandas
+tensorflow==2.15.0
+opencv-python
+mtcnn>=0.1.0
+efficientnet
+split_folders
+streamlit
+streamlit-option-menu 
+streamlit-lottie
+pillow 
+scikit-learn
